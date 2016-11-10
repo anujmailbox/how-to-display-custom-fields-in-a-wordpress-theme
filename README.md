@@ -1,4 +1,4 @@
-# [Displaying Custom Fields in a WordPress Theme][published url]
+# [Display Custom Fields in a WordPress Theme][published url]
 ## Instructor: [Rachel McCollin][instructor url]
 
 Custom fields let you add extra information to your WordPress posts. They're easy to set up, but unless your theme supports them, they won’t be displayed on your site. 
@@ -12,9 +12,9 @@ This repository has the complete WordPress theme created during the course, a su
 
 ------
 
-These are source files for the Envato Tuts+ course: [Displaying Custom Fields in a WordPress Theme][published url]
+These are source files for the Envato Tuts+ course: [Display Custom Fields in a WordPress Theme][published url]
 
 Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: https://code.tutsplus.com/courses/displaying-custom-fields-in-a-wordpress-theme
+[published url]: https://code.tutsplus.com/courses/display-custom-fields-in-a-wordpress-theme
 [instructor url]: https://tutsplus.com/authors/rachel-mccollin
